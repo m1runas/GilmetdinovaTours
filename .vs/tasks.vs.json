@@ -1,0 +1,20 @@
+{
+  "version": "0.2.1",
+  "tasks": [
+    {
+      "taskLabel": "задача-logo",
+      "appliesTo": "GilmetdinovaTours/Resources/logo.png",
+      "type": "launch"
+    },
+    {
+      "taskLabel": "задача-logo",
+      "appliesTo": "GilmetdinovaTours/Resources/logo.png",
+      "type": "launch"
+    },
+    {
+      "taskLabel": "задача-logo",
+      "appliesTo": "GilmetdinovaTours/Resources/logo.png",
+      "type": "launch"
+    }
+  ]
+}
